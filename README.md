@@ -58,3 +58,5 @@ Em desenvolvimento.
 ## 👩‍💻 Autora
 
 Beatriz Borges
+Breno Augusto Maciel
+Gabryely Roseno
